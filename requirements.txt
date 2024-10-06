@@ -1,0 +1,30 @@
+# Data analysis and manipulation libraries
+pandas==1.5.3
+numpy==1.23.5
+
+# Machine learning library
+scikit-learn==1.2.2
+
+# XGBoost for modeling
+xgboost==1.7.5
+
+# Visualization libraries
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Library for saving and loading models
+joblib==1.2.0
+
+# Unit testing library (usually included in standard Python, but included here for completeness)
+unittest2==1.1.0
+
+# Jupyter Notebook for interactive development (optional, but useful for data exploration)
+jupyter==1.0.0
+
+# Additional libraries that might be useful
+scipy==1.10.1
+statsmodels==0.13.5
+
+# Development tools
+pylint==2.17.2
+black==23.3.0
