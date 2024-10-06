@@ -1,6 +1,6 @@
 # Onyva: Revolutionizing Agriculture with Smart Data and Sustainable Solutions
 Repo para Nasa Space Apps Challenge 2024 
-Figma page: (www.figma.com/onyva)[https://www.figma.com/proto/7KxS3i2JsuIkHszfBOnMye/Onyva?node-id=2053-510&node-type=canvas&t=dydfYALuEgYY8tLv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2053%3A510]
+Figma page: [https://www.figma.com/proto/7KxS3i2JsuIkHszfBOnMye/Onyva?node-id=2053-510&node-type=canvas&t=dydfYALuEgYY8tLv-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2053%3A510]
 ## High-Level Summary
 Our project focuses on developing a technological solution to improve agricultural management through an app and an IoT device shaped like an onion. This device collects data from the soil and environment, such as humidity, NPK, electrical conductivity, pH, CO2, and solar radiation. By combining this data with satellite information from NASA, including temperature, heat index, CO2, humidity, UV, and evapotranspiration, a machine learning (ML) model is used to provide predictions and recommendations to farmers.
 
